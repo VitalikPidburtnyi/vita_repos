@@ -1,0 +1,15 @@
+C:\Users\Vitalik-PC\Downloads\task3b\bin\Debug\net6.0\task3b.exe
+C:\Users\Vitalik-PC\Downloads\task3b\bin\Debug\net6.0\task3b.deps.json
+C:\Users\Vitalik-PC\Downloads\task3b\bin\Debug\net6.0\task3b.runtimeconfig.json
+C:\Users\Vitalik-PC\Downloads\task3b\bin\Debug\net6.0\task3b.dll
+C:\Users\Vitalik-PC\Downloads\task3b\bin\Debug\net6.0\task3b.pdb
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\task3b.csproj.AssemblyReference.cache
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\task3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\task3b.AssemblyInfoInputs.cache
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\task3b.AssemblyInfo.cs
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\task3b.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\task3b.dll
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\refint\task3b.dll
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\task3b.pdb
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\task3b.genruntimeconfig.cache
+C:\Users\Vitalik-PC\Downloads\task3b\obj\Debug\net6.0\ref\task3b.dll
