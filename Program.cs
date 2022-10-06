@@ -91,7 +91,7 @@ namespace task2
         }
         public void get_more_info()
         {
-            Console.WriteLine("Team" + team_name);
+            Console.WriteLine("Team " + team_name);
             for (int i = 0; i < index; i++)
             {
                 Console.WriteLine(list[i].name + " - " + list[i].position + " - " + list[i].work_day);
