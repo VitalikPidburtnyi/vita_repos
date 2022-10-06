@@ -82,7 +82,7 @@ namespace task2
         }
         public void get_info()
         {
-            Console.WriteLine(team_name);
+            Console.WriteLine("Team " + team_name);
             for (int i = 0; i < index; i++)
             {
                 Console.WriteLine(list[i].name);
@@ -91,7 +91,7 @@ namespace task2
         }
         public void get_more_info()
         {
-            Console.WriteLine(team_name);
+            Console.WriteLine("Team" + team_name);
             for (int i = 0; i < index; i++)
             {
                 Console.WriteLine(list[i].name + " - " + list[i].position + " - " + list[i].work_day);
@@ -128,9 +128,6 @@ namespace task2
 
             team.get_info();
             team.get_more_info();
-
-            Team team2 = new Team("Beta");
-            team2.get_info();
         }
     }
 }
