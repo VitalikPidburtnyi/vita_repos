@@ -37,19 +37,19 @@ namespace task2
             work_day += call();
             work_day += relax();
             work_day += write_code();
-            Console.WriteLine(work_day);
-            Console.WriteLine();
+            work_day = work_day.Substring(0, work_day.Length - 2);
         }
     }
     class Manager : Worker
     {
+        private Random rnd;
         public Manager(string n) : base(n)
         {
+            rnd = new Random();
             position = "manager";
         }
         public override void fill_work_day()
         {
-            Random rnd = new Random();
             int x = rnd.Next(1, 11);
             for (int i = 0; i < x; i++)
             {
@@ -61,8 +61,7 @@ namespace task2
             {
                 work_day += call();
             }
-            Console.WriteLine(work_day);
-            Console.WriteLine();
+            work_day = work_day.Substring(0, work_day.Length - 2);
         }
     }
     class Team
@@ -129,6 +128,9 @@ namespace task2
 
             team.get_info();
             team.get_more_info();
+
+            Team team2 = new Team("Beta");
+            team2.get_info();
         }
     }
 }
