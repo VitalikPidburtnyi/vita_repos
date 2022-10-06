@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 
 class Converter
 {
@@ -27,17 +28,14 @@ class Converter
 }
 class Program
 {
-    const decimal euro_rate = (decimal)36.52;
-    const decimal dollar_rate = (decimal)36.93;
     public static void Main(string[] args)
     {
         Console.WriteLine("Input the amount of hryvnias:");
-        decimal hryvnias;
+        decimal hryvnias, euro_rate, dollar_rate;
         while (true)
         {
             try
             {
-
                 hryvnias = Convert.ToInt32(Console.ReadLine());
                 break;
             }
@@ -46,6 +44,33 @@ class Program
                 Console.WriteLine("Incorrect input, try again");
             }
         }
+        Console.WriteLine("Input euro rate to hryvnias");
+        while (true)
+        {
+            try
+            {
+                euro_rate = Convert.ToInt32(Console.ReadLine());
+                break;
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Incorrect input, try again");
+            }
+        }
+        Console.WriteLine("Input dollar rate to hryvnias");
+        while (true)
+        {
+            try
+            {
+                dollar_rate = Convert.ToInt32(Console.ReadLine());
+                break;
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Incorrect input, try again");
+            }
+        }
+
         Converter conv = new Converter(euro_rate, dollar_rate);
         string input = "";
         Console.WriteLine("Choose currency to convert to: \"euro\", or \"dollar\". Type \"stop\" to terminate");
