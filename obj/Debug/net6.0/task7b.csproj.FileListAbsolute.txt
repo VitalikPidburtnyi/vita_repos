@@ -1,0 +1,15 @@
+C:\Users\Vitalik-PC\source\repos\task7b\bin\Debug\net6.0\task7b.exe
+C:\Users\Vitalik-PC\source\repos\task7b\bin\Debug\net6.0\task7b.deps.json
+C:\Users\Vitalik-PC\source\repos\task7b\bin\Debug\net6.0\task7b.runtimeconfig.json
+C:\Users\Vitalik-PC\source\repos\task7b\bin\Debug\net6.0\task7b.dll
+C:\Users\Vitalik-PC\source\repos\task7b\bin\Debug\net6.0\task7b.pdb
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\task7b.csproj.AssemblyReference.cache
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\task7b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\task7b.AssemblyInfoInputs.cache
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\task7b.AssemblyInfo.cs
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\task7b.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\task7b.dll
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\refint\task7b.dll
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\task7b.pdb
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\task7b.genruntimeconfig.cache
+C:\Users\Vitalik-PC\source\repos\task7b\obj\Debug\net6.0\ref\task7b.dll
